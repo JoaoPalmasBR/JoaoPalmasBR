@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou João Antonio! 👋
 
-<!--
-**JoaoPalmasBR/JoaoPalmasBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+- 🎓 **Formação**: Engenheiro de Software (em formação)
+- 💼 **Atuação profissional**: Agente comercial no Banco do Brasil
+- 🌐 **Localização**: Palmas, Tocantins, Brasil
+- 🌱 **Interesses**: Desenvolvimento de software, comunidades open-source e projetos colaborativos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+
+- [**NotasAPP2**](https://github.com/JoaoPalmasBR/notasAPP2): Sistema de Controle de Empréstimo de Livros para uma Biblioteca Compartilhada, desenvolvido em Java.
+- [**lpweb-g2-minhaloja**](https://github.com/JoaoPalmasBR/lpweb-g2-minhaloja): Projeto desenvolvido em TypeScript.
+- [**livro-desenvolvimento-software-web**](https://github.com/JoaoPalmasBR/livro-desenvolvimento-software-web): Fork de um livro open-source sobre Desenvolvimento de Software para a Web.
+
+## Contribuições
+
+- Participo ativamente de projetos open-source e comunidades de desenvolvedores.
+- Contribuí com issues no repositório [@Emmanuelperalta8/SPD-ChatConversar](https://github.com/Emmanuelperalta8/SPD-ChatConversar).
+
+## Contato
+
+- 🌐 **Site pessoal**: [joaoantoniosantos.com.br](http://joaoantoniosantos.com.br)
+- 💼 **LinkedIn**: [[Linkedin Joao Palmas BR](https://br.linkedin.com/in/joaopalmasbr)
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato!
