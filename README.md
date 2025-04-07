@@ -4,9 +4,18 @@
 
 - 🎓 **Formação**: Engenheiro de Software (em formação)
 - 💼 **Atuação profissional**: Agente comercial no Banco do Brasil
+   - Certificação em: CPA-10, PLDFT
 - 🌐 **Localização**: Palmas, Tocantins, Brasil
-- 🌱 **Interesses**: Desenvolvimento de software, comunidades open-source e projetos colaborativos
+- 🌱 **Interesses**: Desenvolvimento de software WEB e Mobile e projetos colaborativos
 
+## Conhecimentos
+
+- PHP
+- Angular
+- React / React-Native
+- Python
+- MySQL
+  
 ## Projetos em destaque
 
 - [**NotasAPP2**](https://github.com/JoaoPalmasBR/notasAPP2): Sistema de Controle de Empréstimo de Livros para uma Biblioteca Compartilhada, desenvolvido em Java.
@@ -16,7 +25,7 @@
 ## Contribuições
 
 - Participo ativamente de projetos open-source e comunidades de desenvolvedores.
-- Contribuí com issues no repositório [@Emmanuelperalta8/SPD-ChatConversar](https://github.com/Emmanuelperalta8/SPD-ChatConversar).
+- Contribuí com issues no repositório [@Emmanuelperalta8/SPD-ChatConversar](https://github.com/Emmanuelperalta8/SPD-ChatConversar) chat distribuido em Python multithreading
 
 ## Contato
 
