@@ -15,6 +15,7 @@
 - React / React-Native
 - Python
 - MySQL
+- Docker
   
 ## Projetos em destaque
 
