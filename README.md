@@ -10,6 +10,14 @@ Ou João Palmas, se preferir.
 - 🌐 **Localização**: Palmas, Tocantins, Brasil
 - 🌱 **Interesses**: Desenvolvimento de software WEB e Mobile e projetos colaborativos
 
+<div>
+  <a href="https://github.com/wllynilson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPalmasBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPalmasBR&layout=compact&langs_count=7&theme=dark"/>
+</div>
+! Recurso de stats baseado no Readme do @wllynilson 
+
+     
 ## Conhecimentos
 
 - PHP
